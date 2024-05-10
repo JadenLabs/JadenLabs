@@ -1,3 +1,5 @@
+![JadenLabs](https://github.com/JadenLabs/JadenLabs/blob/main/assets/jadenlabs_logo.png)
+
 ### 🪨 Hello There
 
 I'm Jaden, I am a developer currently attending High School in the United States. I plan to major in computer science or software development in the future.
