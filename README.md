@@ -16,4 +16,4 @@ I enjoy learning about computers and the systems people build on top of them. I 
 
 ![JadenLabs' GitHub stats](https://github-readme-stats.vercel.app/api?username=jadenlabs&show_icons=true&theme=graywhite)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadenlabs)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadenlabs&layout=compact)
