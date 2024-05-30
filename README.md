@@ -12,7 +12,7 @@ I enjoy learning about computers and the systems people build on top of them. I 
 
 ---
 ### ✨ Stats
-*Stats don't seem to be up to date, possibly due to private repos.*
+*Stats don't seem to be up to date, possibly due to private repos and caching.*
 
 ![JadenLabs' GitHub stats](https://github-readme-stats.vercel.app/api?username=jadenlabs&show_icons=true&theme=graywhite)
 
