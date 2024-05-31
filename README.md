@@ -28,6 +28,8 @@ Want to contact me? I am available on Discord @roc.py or by email at jadenlabsso
 ### Beginner
 ![C](https://img.shields.io/badge/C-E7E7E7?style=for-the-badge&logo=c&logoColor=E7E7E7&labelColor=%23595856)
 ![C++](https://img.shields.io/badge/C%2B%2B-E7E7E7?style=for-the-badge&logo=c%2B%2B&logoColor=E7E7E7&labelColor=%23595856)
+### What
+![CSS3](https://img.shields.io/badge/CSS3-E7E7E7?style=for-the-badge&logo=css3&logoColor=E7E7E7&labelColor=%23595856)
 
 ---
 ## ✨・Stats
