@@ -17,7 +17,7 @@ Want to contact me? I am available on Discord @roc.py or by email at jadenlabsso
   - Most of the assets that I use are created by me in figma.
 
 ## 💠・Languages
-### Proficient:
+### Proficient
 ![Python](https://img.shields.io/badge/Python-E7E7E7?style=for-the-badge&logo=python&logoColor=E7E7E7&labelColor=%23595856)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E7E7E7?style=for-the-badge&logo=javascript&logoColor=E7E7E7&labelColor=%23595856)
 ### Competent
