@@ -1,20 +1,19 @@
 ![JadenLabs](https://github.com/JadenLabs/JadenLabs/blob/main/assets/jadenlabs_logo.png)
 
 ## 🪨・Hello There
+Hi, I'm Jaden - thanks for checking out my GitHub profile! I'll be attending Arizona State University later this year (ASU Class of 2029), majoring in CSSE (Computer Science + Software Engineering).
 
-I'm Jaden, I am a developer currently attending High School in the United States. I plan to major in computer science or software development in the future.
-I enjoy learning about computers and the systems people build on top of them. I also enjoy creating things to solve problems and being creative with code.
+I love coding because it lets me build whatever I imagine and solve real-world problems. I'm especially interested in backend systems and databases.
 
 ### Contact
 Want to contact me? I am available on Discord @roc.py or by email at jadenlabssocial@outlook.com. 
 
 ## 💠・Skills
-- 🛠️ Discord Bots (Discord.JS and Discord.PY)
-  - Learning rust's serenity.rs too with my project [labradorite](https://github.com/JadenLabs/labradorite).
+- 🛠️ Discord Bots (Discord.JS, Discord.PY, & some Serenity.RS)
 - 💻 Backend work with APIs (REST with Express.JS and Rocket.RS)
 - 📜 Databases (SQLite3 and MongoDB)
-- 🎨 Asset Creation (figma)
-  - Most of the assets that I use are created by me in figma.
+- 🎨 Asset Creation (Figma)
+  - Most of the assets that I use are created by me in Figma.
 
 ## 💠・Languages
 ### Proficient
