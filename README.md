@@ -30,6 +30,7 @@ Want to contact me? I am available on Discord `@roc.py` or by email at `jadenlab
 
 ### Beginner
 ![C](https://img.shields.io/badge/C-E7E7E7?style=for-the-badge&logo=c&logoColor=E7E7E7&labelColor=%23595856)
+![Golang](https://img.shields.io/badge/Golang-E7E7E7?style=for-the-badge&logo=go&logoColor=E7E7E7&labelColor=%23595856)
 
 ---
 ## ✨・Stats
