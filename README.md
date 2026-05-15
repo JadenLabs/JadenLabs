@@ -1,9 +1,9 @@
 ![JadenLabs](https://github.com/JadenLabs/JadenLabs/blob/main/assets/jadenlabs_logo.png)
 
 ## 🪨・Hello There
-Hi, I'm Jaden - thanks for checking out my GitHub profile! I am a freshman at **Arizona State University** studying **Computer Science** with a focus in Software Engineering.
+Hi, I'm Jaden - thanks for checking out my GitHub profile! I am a sophomore at **Arizona State University** studying **Computer Science** with a focus in Software Engineering.
 
-Over my three years of coding thus far, I have developed a passion for coding as it lets me solve problems around me by making cool software & solutions. 
+Over my four years of coding so far, I have developed a passion for coding as it lets me solve problems around me by making cool software & solutions. 
 
 ### Contact
 Want to contact me? I am available on Discord `@roc.py` or by email at `jadenlabs@proton.me`. 
