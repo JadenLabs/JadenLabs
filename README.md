@@ -1,4 +1,4 @@
-![JadenLabs](https://github.com/JadenLabs/JadenLabs/blob/main/assets/jadenlabs_logo.png)
+![JadenLabs](https://github.com/JadenLabs/JadenLabs/blob/main/assets/jadenlabs-banner-2x.png)
 
 ## 🪨・Hello There
 Hi, I'm Jaden - thanks for checking out my GitHub profile! I am a sophomore at **Arizona State University** studying **Computer Science** with a focus in Software Engineering.
